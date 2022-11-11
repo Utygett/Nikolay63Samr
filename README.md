@@ -22,7 +22,7 @@
 ---
 
 ### :fire: My Stats :
-[![Anisia Klimenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolay63Samr)](https://github.com/Nikolay63Samr/github-readme-stats)</br>
+[![Nikolay GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolay63Samr)](https://github.com/Nikolay63Samr/github-readme-stats)</br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikolay63Samr&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikolay63Samr&theme=github)
